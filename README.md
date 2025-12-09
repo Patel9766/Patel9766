@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arbaz Patel</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate AWS Cloud & DevOps Engineer from India</h3>
 
 - 👯 I’m looking to collaborate on **Cloud-native DevOps Projects – Dockerized apps, Jenkins pipelines, and scalable AWS infrastructure**
 
