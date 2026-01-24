@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arbazpatel50408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19vTS0tDN1GGM6HQ955teTL90FmK-KKA9/view?usp=drive_link](https://drive.google.com/file/d/19vTS0tDN1GGM6HQ955teTL90FmK-KKA9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qlDqHA8W-uaNDsG-G_FQ_PgW5ncvv-N0/view?usp=drive_link](https://drive.google.com/file/d/1qlDqHA8W-uaNDsG-G_FQ_PgW5ncvv-N0/view?usp=drive_link)
 - ⚡ Fun fact **I think I’m funny... and my logs agree 😄**
 
 <h3 align="left">Connect with me:</h3>
